@@ -1,0 +1,8 @@
+name="Gian"
+age=10
+flag=True
+weight=30.00
+print (type(name))
+print (type(age))
+print (type(flag))
+print (type(weight))
